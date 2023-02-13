@@ -1,0 +1,24 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "e",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/projects/new.git#import_project"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/projects/new/issues"
+  },
+  "homepage": "https://gitlab.com/projects/new/tree/import_project#readme",
+  "keywords": [],
+  "description": ""
+}
